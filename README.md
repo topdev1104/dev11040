@@ -49,13 +49,14 @@
 ## Contact me
 
 <!-- [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:primozbernard401@gmail.com) -->
-[![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/cX6RvumEboJE)
+[![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)]
+(https://join.skype.com/invite/zqVb0AjH4liM)
 [![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alchemist0404)
-[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/940446593172254792)
+[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/dev0052#3981)
 <!-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/primozbernard/) -->
 
 <div align="right">
-  <img src="https://count.getloli.com/get/@:alchemist0404?theme=rule34" />
+  <img src="https://count.getloli.com/get/@:SeniorDev1104?theme=rule34" />
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
