@@ -1,12 +1,10 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Walter+Turncoat&color=%230366DE&size=25&duration=5000&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+With+Below+Certificates;Senior+Frontend+Engineer;Senior+MERN+Stack+Developer" alt="Alchemist" width="100%">
 
-<!-- <h6 align="center">Skype: live:.cid.21dae5274167896f Telegram: @alchemist35 -->
-<!--   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=alchemist0404.alchemist0404" />
 <img align="right" src="https://img.shields.io/github/followers/alchemist0404?label=Follow&style=social" />
-<h1 align="center"></h1> -->
-<!-- <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=alchemist0404&show_icons=true&theme=merko&count_private=true" />
+<h1 align="center"></h1>
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=alchemist0404&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtovmach&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
 
@@ -44,7 +42,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="100"></td>
   </tr>
-</table> -->
+</table>
 
 <!-- [![trophy](https://github-readme-streak-stats.herokuapp.com/?user=alchemist0404&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=alchemist0404) [![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=alchemist0404&theme=merko)](https://github-readme-stats.vercel.app/api/wakatime?username=alchemist0404) -->
 
